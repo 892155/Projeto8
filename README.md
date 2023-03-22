@@ -5,7 +5,7 @@
 <p align="center">Projeto de Perguntas e Respostas desenvolvido na aula de TI, SENAC.</p>
 
 <br>
-## 🔸 Sobre
+🔸 Sobre
 O projeto tem o intuito de criar uma página em que recebe perguntas de usuários e outros usuários possam visualizar e responder.
 
 ## 🔹 Como funciona.
@@ -16,7 +16,7 @@ O projeto tem o intuito de criar uma página em que recebe perguntas de usuário
 • A resposta ficará salva para visualização.
 
 
-##💡 Layout do projeto.
+💡 Layout do projeto.
 
 [ img1]
 [ img1]
