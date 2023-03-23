@@ -1,6 +1,6 @@
 <h1 align="center">Perguntas e Respostas</h1>
 
-<img src="https://i.ibb.co/JzwMhsJ/banner-qea.png">
+<img src="https://i.ibb.co/bLL7w2T/banner-qea-1.png">
 
 <p align="center">Projeto de Perguntas e Respostas desenvolvido na aula de TI, SENAC.</p>
 
