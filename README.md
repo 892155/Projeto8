@@ -8,7 +8,7 @@
 🔸 Sobre:
 O projeto tem o intuito de criar uma página em que recebe perguntas de usuários e outros usuários possam visualizar e responder.
 
-## 🔹 Como funciona.
+## 🔹 Como funciona
 
 • O usuário adiciona sua pergunta.
 <br>
@@ -27,7 +27,7 @@ O projeto tem o intuito de criar uma página em que recebe perguntas de usuário
 
 [ img1]
 
-## 💻 Técnologias.
+## 💻 Técnologias
 As seguintes ferramentas foram usadas na construção do projeto.
 
 • Visual Studio Code
