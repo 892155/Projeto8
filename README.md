@@ -22,7 +22,9 @@ O projeto tem o intuito de criar uma página em que recebe perguntas de usuário
 💡 Layout do projeto.
 
 [ img1]
+
 [ img1]
+
 [ img1]
 
 ## 💻 Técnologias.
