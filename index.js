@@ -6,6 +6,7 @@ const Pergunta = require('./database/Pergunta')
 const Resposta = require('./database/Resposta')
 
 //Conexão com o banco de dados
+require("dotenv").config()
 
 connection
     .authenticate()
@@ -91,6 +92,6 @@ app.post('/resposta', (req,res) => {
     })
 })
 
-app.listen(3333, () =>{
+app.listen(process.env.PORT, () =>{
     console.log("Servidor rodando")
 })
