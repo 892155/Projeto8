@@ -21,11 +21,12 @@ O projeto tem o intuito de criar uma página em que recebe perguntas de usuário
 
 💡 Layout do projeto.
 
-[ img1]
 
-[ img1]
+<img src="https://i.ibb.co/sbZq98h/1.png"> 
 
-[ img1]
+<img src="https://i.ibb.co/kDGXGnd/2.png"> 
+
+
 
 ## 💻 Técnologias
 As seguintes ferramentas foram usadas na construção do projeto.
