@@ -6,7 +6,7 @@ const Pergunta = require('./database/Pergunta')
 const Resposta = require('./database/Resposta')
 
 //Conexão com o banco de dados
-require("dotenv").config()
+
 connection
     .authenticate()
     .then(() =>{
