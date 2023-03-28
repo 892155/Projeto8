@@ -7,7 +7,7 @@ const Sequelize = require('sequelize')  // importando o Sequelize
 // constante que cria a conexão
 const connection = new Sequelize('process.env.DB_NAME', 'process.env.USER', 'process.env.PASSWORD', {
     host: 'process.env.HOST',
-    port: 'process.env.DB_PORT',
+    port: 'process.env.PORT',
     dialect: 'mysql'
 })
 
