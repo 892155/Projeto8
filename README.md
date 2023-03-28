@@ -28,7 +28,7 @@ O projeto tem o intuito de criar uma página em que recebe perguntas de usuário
 
 
 
-## 💻 Técnologias
+## 💻 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto.
 
 • Visual Studio Code
@@ -50,7 +50,8 @@ Abrir MySQLWorkbench e configurar um banco de dados.
 1. Fazer o download da pasta ZIP no GitHub 
 2. Extraia este arquivo em sua área de trabalho
 3. Abra o arquivo com o programa Visual Studio
-4. Abra o terminal no Visual Studio.
+4. Editar o .env com as informações utilizadas.
+5. Abra o terminal no Visual Studio.
 
 ```bash
 
