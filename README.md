@@ -34,6 +34,12 @@ As seguintes ferramentas foram usadas na construção do projeto.
 • XAMPP
 • MySQL Workbench
 
+## Linguagens
+
+• JavaScript
+• EJS
+• CSS
+
 ## 🔎 Como executar
 
 Iniciar servidor Apacha e MySQL pelo XAMPP, usando as portas desejadas. (Padrão no arquivo para MySQL está 3333)
