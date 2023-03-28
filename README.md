@@ -51,12 +51,12 @@ Abrir MySQLWorkbench e configurar um banco de dados.
 2. Ou utilizar git clone https://github.com/892155/Projeto8 no terminal do Visual Studio
 3. Abra o arquivo com o programa Visual Studio 
 4. Editar o .env com as informações utilizadas
-Exemplo:
-DB_NAME = "projeto8"
-USER = "root"
-PASSWORD = ""
-HOST = "localhost"
-PORT = "3333"
+Exemplo: <br>
+DB_NAME = "projeto8" <br>
+USER = "root" <br>
+PASSWORD = "" <br>
+HOST = "localhost" <br>
+PORT = "3333" <br>
 5. Abra o terminal no Visual Studio para iniciar o projeto
 
 ```bash
