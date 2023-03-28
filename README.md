@@ -43,7 +43,7 @@ As seguintes ferramentas foram usadas na construção do projeto.
 
 ## 🔎 Como executar
 
-Iniciar servidor Apacha e MySQL pelo XAMPP, usando as portas desejadas. (Padrão no arquivo para MySQL está 3333)
+Iniciar servidor Apache e MySQL pelo XAMPP, usando as portas desejadas. (Padrão no arquivo para MySQL está 3333)
 
 Abrir MySQLWorkbench e configurar um banco de dados.
 
