@@ -37,9 +37,9 @@ As seguintes ferramentas foram usadas na construção do projeto.
 
 ## Linguagens
 
-• JavaScript
-• EJS
-• CSS
+• JavaScript <br>
+• EJS <br>
+• CSS <br>
 
 ## 🔎 Como executar
 
